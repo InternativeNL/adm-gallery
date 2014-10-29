@@ -1,0 +1,122 @@
+.adm_gallery {
+    margin:0px 0px 20px 0px;
+    list-style: none;
+}
+
+    .adm_gallery li {
+    	float: left;
+    	margin: 0 4px 4px 0;
+    	overflow: hidden;
+    	position: relative;
+        list-style: none;
+    }
+    
+        .adm_gallery li h3 {
+            
+        }
+
+            .adm_gallery li h3 a, .adm_gallery li h3 a:hover, .adm_gallery li h3 a:visited {
+                
+            }
+
+        
+        .adm_gallery li a {
+            
+        }
+        
+            .adm_gallery li a img {
+                max-width: 100%;
+                height: auto;
+            }
+    
+    /* Styles for different amount of columns */
+    
+    .adm_gallery.columns-1 li {
+    	max-width: 100%;
+    }
+    
+    .adm_gallery.columns-2 li {
+    	max-width: 48%;
+    	max-width: -webkit-calc(50% - 4px);
+    	max-width:         calc(50% - 4px);
+    }
+    
+    .adm_gallery.columns-3 li {
+    	max-width: 32%;
+    	max-width: -webkit-calc(33.3% - 4px);
+    	max-width:         calc(33.3% - 4px);
+    }
+    
+    .adm_gallery.columns-4 li {
+    	max-width: 23%;
+    	max-width: -webkit-calc(25% - 4px);
+    	max-width:         calc(25% - 4px);
+    }
+    
+    .adm_gallery.columns-5 li {
+    	max-width: 19%;
+    	max-width: -webkit-calc(20% - 4px);
+    	max-width:         calc(20% - 4px);
+    }
+    
+    .adm_gallery.columns-6 li {
+    	max-width: 15%;
+    	max-width: -webkit-calc(16.7% - 4px);
+    	max-width:         calc(16.7% - 4px);
+    }
+    
+    .adm_gallery.columns-7 li {
+    	max-width: 13%;
+    	max-width: -webkit-calc(14.28% - 4px);
+    	max-width:         calc(14.28% - 4px);
+    }
+    
+    .adm_gallery.columns-8 li {
+    	max-width: 11%;
+    	max-width: -webkit-calc(12.5% - 4px);
+    	max-width:         calc(12.5% - 4px);
+    }
+    
+    .adm_gallery.columns-9 li {
+    	max-width: 9%;
+    	max-width: -webkit-calc(11.1% - 4px);
+    	max-width:         calc(11.1% - 4px);
+    }
+    
+    .adm_gallery.columns-1 li:nth-of-type(1n),
+    .adm_gallery.columns-2 li:nth-of-type(2n),
+    .adm_gallery.columns-3 li:nth-of-type(3n),
+    .adm_gallery.columns-4 li:nth-of-type(4n),
+    .adm_gallery.columns-5 li:nth-of-type(5n),
+    .adm_gallery.columns-6 li:nth-of-type(6n),
+    .adm_gallery.columns-7 li:nth-of-type(7n),
+    .adm_gallery.columns-8 li:nth-of-type(8n),
+    .adm_gallery.columns-9 li:nth-of-type(9n) {
+    	margin-right: 0;
+    }
+    
+    .adm_gallery.columns-1 li:nth-of-type(1n+1),
+    .adm_gallery.columns-2 li:nth-of-type(2n+1),
+    .adm_gallery.columns-3 li:nth-of-type(3n+1) {
+        clear: both;
+    }            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+

@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admium Gallery\n"
+"POT-Creation-Date: 2014-05-15 18:14+0100\n"
+"PO-Revision-Date: 2014-05-15 18:16+0100\n"
+"Last-Translator: Erik de Vries <info@erikdevries.nl>\n"
+"Language-Team: Admium <info@admium.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: /Users/erikdevries/Desktop/adm-gallery\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adm-admin.php:5
+msgid "Display an overview of Wordpress galleries used on child pages."
+msgstr "Toon een overzicht van Wordpress gallerijen op onderliggende pagina's."
+
+#: adm-admin.php:10
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: adm-admin.php:62
+msgid "settings"
+msgstr "instellingen"
+
+#: adm-admin.php:66
+msgid "How to use this plugin?"
+msgstr "Hoe werkt deze plugin?"
+
+#: adm-admin.php:67
+msgid ""
+"Copy and paste the shortcode <b>[adm_gallery]</b> into the editor of the "
+"page on which you want to show the gallery. The page will automatically "
+"display an overview of all child-pages which contain a gallery."
+msgstr ""
+"Kopieer en plak de shortcode <b>[adm_gallery]</b> in het tekstveld van de "
+"pagina waar de galerij getoond dient te worden. De pagina zal na opslaan "
+"automatisch een overzicht tonen van alle onderliggende pagina's welke een "
+"galerij bevatten."
+
+#: adm-admin.php:75
+msgid "Custom thumbnails"
+msgstr "Aangepaste thumbnails"
+
+#: adm-admin.php:79
+msgid "Enable custom thumbnails?"
+msgstr "Schakel aangepaste thumbnails in?"
+
+#: adm-admin.php:82 adm-admin.php:104 adm-admin.php:120
+msgid "Yes"
+msgstr "Ja"
+
+#: adm-admin.php:82 adm-admin.php:104 adm-admin.php:120
+msgid "No"
+msgstr "Nee"
+
+#: adm-admin.php:84
+msgid ""
+"Tip: When set to yes a new set of thumbnails are created for this plugin, "
+"set to no to use the default Wordpress thumbnails. These new thumbnails are "
+"only created for images uploaded from now on, use a plugin like \"Force "
+"Regenerate Thumbnails\" to regenerate thumbnails."
+msgstr ""
+"Tip: Selecteer ja om een nieuwe set van thumbnails aan te maken voor deze "
+"plugin, selecteer nee om de standaard Wordpress thumbnails te gebruiken. "
+"Deze thumbnails worden enkel aangemaakt voor afbeeldingen die vanaf nu "
+"worden geupload, gebruik een plugin zoals \"Force Regenerate Thumbnails\" om "
+"de thumbnails opnieuw aan te maken."
+
+#: adm-admin.php:91
+msgid "Custom thumbnail dimensions"
+msgstr "Formaat van aangepaste thumbnails"
+
+#: adm-admin.php:93
+msgid "Crop and fit within"
+msgstr "Snij bij en pas binnen"
+
+#: adm-admin.php:94
+msgid "pixels"
+msgstr "pixels"
+
+#: adm-admin.php:96
+msgid ""
+"Tip: Aspect ratio of 3:2 is most common in photos, keep this in mind when "
+"entering dimensions!"
+msgstr ""
+"Tip: Beeldverhouding van 3:2 is het meest gebruikelijk voor foto's, houdt "
+"dit in gedachte bij het invoeren van de formaten."
+
+#: adm-admin.php:101
+msgid "Hard crop thumbnails?"
+msgstr "Snij thumbnails hard bij?"
+
+#: adm-admin.php:106
+msgid ""
+"Tip: When set to yes all the thumbnails will be the exact size, when set to "
+"no the original aspect ratio is kept and the thumbnail will fit within above "
+"dimensions."
+msgstr ""
+"Tip: Selecteer ja om alle thumbnails exact hetzelfde formaat te geven, "
+"selecteer nee om de originele beeldverhouding te behouden en de thumbnails "
+"binnen de opgegeven afmetingen te houden."
+
+#: adm-admin.php:113
+msgid "Style"
+msgstr "Stijl"
+
+#: adm-admin.php:117
+msgid "Use built-in stylesheet?"
+msgstr "Gebruik ingebouwde stijl?"
+
+#: adm-admin.php:122
+msgid ""
+"Tip: Set to yes to enable built-in CSS, set to no if you want to style "
+"everything yourself."
+msgstr ""
+"Tip: Selecteer ja om de ingebouwde CSS in te schakelen, selecteer nee om "
+"alles zelf op te maken."
+
+#: adm-admin.php:127
+msgid "Number of columns"
+msgstr "Aantal kolommen"
+
+#: adm-admin.php:142
+msgid "Tip: Depends on the used theme what value is best, just play with it."
+msgstr ""
+"Tip: Hangt van het thema af wat de beste instelling is, experimenteer "
+"hiermee."
+
+#: adm-admin.php:149 adm-admin.php:167
+msgid "Order"
+msgstr "Volgorde"
+
+#: adm-admin.php:153
+msgid "Order gallery by"
+msgstr "Sorteer galerij op"
+
+#: adm-admin.php:157
+msgid "Date modified"
+msgstr "Datum aangepast"
+
+#: adm-admin.php:158
+msgid "Date created"
+msgstr "Datum aangemaakt"
+
+#: adm-admin.php:159
+msgid "Title"
+msgstr "Titel"
+
+#: adm-admin.php:160
+msgid "Comment count"
+msgstr "Aantal reacties"
+
+#: adm-admin.php:161
+msgid "Random"
+msgstr "Willekeurig"
+
+#: adm-admin.php:170
+msgid "Ascending"
+msgstr "Oplopend"
+
+#: adm-admin.php:170
+msgid "Descending"
+msgstr "Aflopend"
+
+#: adm-admin.php:177
+msgid "Save changes"
+msgstr "Sla wijzigingen op"
+
+#~ msgid "Display an overview of Wordpress galleries used on child pages"
+#~ msgstr ""
+#~ "Toon een overzicht van Wordpress gallerijen op onderliggende pagina's"
